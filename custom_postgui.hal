@@ -1,0 +1,2 @@
+# Button for automated Z Touch Off with plate
+    net ztouch halui.mdi-command-00 <= pyvcp.ztouch
